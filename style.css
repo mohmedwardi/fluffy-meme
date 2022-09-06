@@ -1,0 +1,10 @@
+div{
+    background-color: aqua;
+    color: black;
+    width: 400%;
+    
+}
+
+h1 div{
+    text-align: center;
+}
